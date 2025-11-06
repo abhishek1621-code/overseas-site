@@ -300,7 +300,7 @@ vars:
 #### Step 3.4: Test SSH Connection
 ```bash
 # Test if you can SSH into the instance
-ssh -i ~/.ssh/id_rsa ubuntu@13.233.xx.xx
+ssh -i ~/.ssh/id_rsa ubuntu@3.7.6.249
 
 # You should see: ubuntu@ip-xxx-xxx-xxx-xxx:~$
 
